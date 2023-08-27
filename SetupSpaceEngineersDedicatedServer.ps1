@@ -18,10 +18,6 @@ $installDir = "C:\SpaceEngineersDedicatedServer"
 
 Start-Process -FilePath $steamCmdPath -ArgumentList "+login anonymous +force_install_dir `"$installDir`" +app_update 298740 +quit"
 
-# Add firewall inbound traffic rule allow traffic port 27016
-
-# New-NetFirewallRule -DisplayName "Allow Inbound Traffic on Port 27016" -Direction Inbound -Action Allow -Protocol TCP -LocalPort 27016
-
 # Add firewall rule to allow the specified executable
 
 $executablePath = "C:\SpaceEngineersDedicatedServer\DedicatedServer64\SpaceEngineersDedicated.exe"
