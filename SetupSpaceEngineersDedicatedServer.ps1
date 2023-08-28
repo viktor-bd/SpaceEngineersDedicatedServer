@@ -1,5 +1,5 @@
 # Run PowerShell as Administrator
-Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -File `"$($MyInvocation.MyCommand.Path)`"" -Verb RunAs
+#Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -File `"$($MyInvocation.MyCommand.Path)`"" -Verb RunAs
 
 # Install Chocolatey
 [System.Net.ServicePointManager]::SecurityProtocol = 3072
