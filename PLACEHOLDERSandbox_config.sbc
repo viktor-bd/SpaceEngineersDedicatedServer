@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<MyObjectBuilder_WorldConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Settings xsi:type="MyObjectBuilder_SessionSettings">
+    <GameMode>Survival</GameMode>
+    
+  </Settings>
+  <Mods>
+      <ModItem FriendlyName="Easy Block Renaming">
+      <Name>2077166496.sbm</Name>
+      <PublishedFileId>2077166496</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Sneaky Sounds - Quieter Tools">
+      <Name>1662953858.sbm</Name>
+      <PublishedFileId>1662953858</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="HUD Compass">
+      <Name>1469072169.sbm</Name>
+      <PublishedFileId>1469072169</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Colorful Icons">
+      <Name>801185519.sbm</Name>
+      <PublishedFileId>801185519</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Color Hud (1.200)">
+      <Name>2332245521.sbm</Name>
+      <PublishedFileId>2332245521</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="High Range Ore Detectors">
+      <Name>1653943631.sbm</Name>
+      <PublishedFileId>1653943631</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+  </Mods>
+  <SessionName>Star System - Surival Done Right maybe Yes</SessionName>
+  <LastSaveTime>2023-08-27T14:23:14.604268+02:00</LastSaveTime>
+</MyObjectBuilder_WorldConfiguration>
